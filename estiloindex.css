@@ -1,0 +1,63 @@
+body{
+    background-color:  rgb(88, 35, 131, 0.342);
+    border: 15px solid rgb(88, 35, 131, 0);
+
+}
+
+h1{
+    background-color: rgba(132, 0, 255, 0.253);
+    width: 300px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+
+}
+
+h2{
+    position: relative;
+    left: 250px
+}
+
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#tentativa{
+
+    position: relative;
+    left: 450px;
+    bottom: 32px;
+
+}
+#imagem{
+
+    position: relative;
+    right: 400px;
+}
+
+
+
+#imagem2{
+    
+    position: relative;
+    left: 450px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
